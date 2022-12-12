@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('Com1')
+    print('Com1') #хехе
 
 
 def main():
